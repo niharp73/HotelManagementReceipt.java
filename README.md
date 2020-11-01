@@ -1,1 +1,1 @@
-# HotelManagementReceipt.java
+# HotelManagement.java
